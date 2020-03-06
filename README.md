@@ -7,7 +7,10 @@
 	Try component interaction and React routers.
 
 ## Exercise 3
-	Try react hooks(useState and useEffects) to create compoenents. Use axios to create services to use external apis.
+	Use react hooks(useState and useEffects) to create compoenents. Use axios to create services to use external apis.
 	
 ## Exercise 4
-	Try to use redux to manage global app states by implementing favorite movie list on the last exercise
+	Use redux to manage global app states by implementing favorite movie list on the last exercise
+    
+## Exercise 5
+	Use next to remake exercise3 with SSR, api and @emotion/styled to do css
