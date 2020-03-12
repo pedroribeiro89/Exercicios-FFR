@@ -14,3 +14,6 @@
     
 ## Exercise 5
 	Use next to remake exercise3 with SSR, api and @emotion/styled to do css
+	
+## Exercise 6
+	https://github.com/pedroribeiro89/exercicio6-FFR
